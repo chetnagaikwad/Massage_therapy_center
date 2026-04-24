@@ -31,10 +31,10 @@ A full-stack healthcare website developed using Django, HTML, CSS and JavaScript
 ---
 ## 🔗 Repository Link
 
-[View Project on GitHub](Your-GitHub-Link-Here)
+https://github.com/chetnagaikwad/Massage_therapy_center
 ---
 ## 📷 Project Screenshots
-<img src="homepage.png" width="500"><br><br>
+<img src="homepage .png" width="500"><br><br>
 <img src="bookappinmnet.png" width="500"><br><br>
 <img src="services.png" width="500"><br><br>
 <img src="services2.png" width="500"><br><br>
