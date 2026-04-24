@@ -4,16 +4,16 @@ A full-stack healthcare website developed using Django, HTML, CSS and JavaScript
 
 ## 📌 Features
 
-✅ Homepage with interactive navigation  
-✅ Therapy pages (Acupuncture, Acupressure, Detox, Cupping, Massage)  
-✅ User Signup/Login Authentication  
-✅ Appointment Booking System  
-✅ My Appointments Dashboard  
-✅ Contact Page  
-✅ About Us Page  
-✅ Responsive Frontend Design  
-✅ Django Routing and Template Integration  
-✅ Static Images and Social Media Links
+- Homepage with interactive navigation  
+- Therapy pages including Acupuncture, Acupressure, Detox, Cupping and Massage  
+- User signup and login authentication  
+- Appointment booking system  
+- My Appointments dashboard  
+- Contact page  
+- About Us page  
+- Responsive frontend design  
+- Django routing and template integration  
+- Static images and social media links
 ---
 ## 💻 Technologies Used
 
@@ -34,5 +34,8 @@ A full-stack healthcare website developed using Django, HTML, CSS and JavaScript
 [View Project on GitHub](Your-GitHub-Link-Here)
 ---
 ## 📷 Project Screenshots
-
-(Add screenshots here)
+<img src="homepage.png" width="500"><br><br>
+<img src="bookappinmnet.png" width="500"><br><br>
+<img src="services.png" width="500"><br><br>
+<img src="services2.png" width="500"><br><br>
+<img src="backend.jpeg" width="500">
